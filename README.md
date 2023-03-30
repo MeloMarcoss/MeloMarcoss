@@ -1,5 +1,9 @@
 ### Hello, I'm Marcos José!
 ### Sou um explorador da vida, sempre procurando novos desafios e oportunidades. Como pessoa com deficiência auditiva, aprendi a superar obstáculos e a lutar por meus sonhos. Adoro desafiar as expectativas e provar que nada é impossível. Além disso, sou um entusiasta de jogos eletrônicos, basquete e tecnologia, sempre em busca de maneiras inovadoras de me conectar com o mundo ;D
+<div>
+<[![UFRPE Devs badge](https://raw.githubusercontent.com/ufrpe-devs/comunidade/main/media/ufrpe-devs-badge.svg)](https://github.com/ufrpe-devs/comunidade)
+>
+</div>
 
 ## Contatos:
 
